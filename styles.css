@@ -237,6 +237,7 @@ button:hover {
         padding: 64px 80px 40px;
         object-position: 20px 200px;
         background-position: 6px 0px;
+        row-gap: 0px;
     }
 
 
